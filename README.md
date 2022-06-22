@@ -1,7 +1,7 @@
 <h1 align="center">Valter Ferreira Paiva Junior</h1>
 
 <h5 align="center">Information Systems Student and cats lover </h5>
-<h5 align="center"><img src="https://c.tenor.com/faGOgaBnZTUAAAAC/kittycass-peachcat.gif" width="100" />
+<h5 align="center"><img src="https://cutewallpaper.org/24/cat-gif-png/20-fantastic-ideas-transparent-cute-cats-gif-lee-dii.gif" width="100" />
 </p>
 
 <br>

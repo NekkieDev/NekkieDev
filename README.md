@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Valter Ferreira Paiva Junior</h1>
 
-<!--
-**NekkieDev/NekkieDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center">Information Systems Student and cats lover</h5>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Some Languages<h4/>
+	
+<p align="center">
+	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white" alt="html" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
+	

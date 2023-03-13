@@ -1,6 +1,6 @@
 <h1 align="center">Valter Ferreira Paiva Junior</h1>
 
-<h5 align="center">Systems Analyst enjoyer and cats lover </h5>
+<h5 align="center">Systems Analyst and cats lover </h5>
 <h5 align="center"><img src="https://media0.giphy.com/media/W0VuY0dTxH9L6vLUJ2/giphy.gif" width="150" />
 </p>
 

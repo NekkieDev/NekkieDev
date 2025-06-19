@@ -1,26 +1,26 @@
-<h1 align="center">Valter Ferreira Paiva Junior</h1>
+## Hello there! My name is Valter Ferreira and I am a Software Developer.
+<div>
+  <a href='https://github.com/NekkieDev'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nekkiedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   <img height = '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nekkiedev&layout=compact&langs_count=16&theme=dark'/>
+    </div>
 
-<h5 align="center">Systems Analyst and cats lover </h5>
-<h5 align="center"><img src="https://media0.giphy.com/media/W0VuY0dTxH9L6vLUJ2/giphy.gif" width="150" />
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"
 
-<br>
-
-<h4 align="center">Some Skills<h4/>
-	
-<p align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white" alt="html" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
-	
-	
+  
  
-
 </div>
 
-<h4 align="center">Contact me<h4/>
-<div>
-	<p align="center">
-	<a href = "mailto:valterferreirapj.12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/valter-ferreira-15a559243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+##
+       
+<div> 
+  <a href="https://www.instagram.com/valtferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:valterfpaiva.12@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target="_blank"></a>
+  <a href="https://www.linkedin.com/in/valter-ferreira-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+  
+</div>

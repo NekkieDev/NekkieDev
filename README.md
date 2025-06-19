@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&pause=1000&color=F4F7F7&width=435&lines=+Hello+there!+My+name+is+Valter+Ferreira!;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&pause=1000&color=F4F7F7&width=435&lines=+Hello+there!+My+name+is+Valter+Ferreira!)](https://git.io/typing-svg)
 <div>
   <a href='https://github.com/NekkieDev'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nekkiedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   <img height = '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nekkiedev&layout=compact&langs_count=16&theme=dark'/>
